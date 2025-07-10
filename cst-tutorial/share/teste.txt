@@ -1,3 +1,4 @@
 Abrir um terminal e rodar o MIMO: python3 /sharevnc/mimo_bridge/mimo_bridge.py
 Abrir outro terminal e rodar ./script1.sh
 
+
